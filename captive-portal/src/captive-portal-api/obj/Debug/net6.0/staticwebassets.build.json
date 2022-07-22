@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B/HuV0iyb3fTFXVgf1m/59FGuBUMNHdXfJvBNm52mB4=",
+  "Source": "captive-portal-api",
+  "BasePath": "_content/captive-portal-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
