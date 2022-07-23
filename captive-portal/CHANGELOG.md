@@ -10,6 +10,6 @@
 
 - Updates
 
-## 1.0.0
+## 0.0.1
 
-- Initial release
+- Initial setup and configuration. Attempting to establish .NET environment
