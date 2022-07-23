@@ -1,6 +1,8 @@
-# Home Assistant Add-on: Example add-on
+# Home Assistant Add-on: Captive Portal add-on
 
 ## How to use
+
+TODO: Write out how to setup.
 
 This add-on really does nothing. It is just an example.
 
