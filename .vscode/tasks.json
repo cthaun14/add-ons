@@ -14,6 +14,42 @@
         "panel": "new"
       },
       "problemMatcher": []
+    },
+    {
+        "label": "build",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "build",
+            "${workspaceFolder}/captive-portal/src/captive-portal-api/captive-portal-api.csproj",
+            "/property:GenerateFullPaths=true",
+            "/consoleloggerparameters:NoSummary"
+        ],
+        "problemMatcher": "$msCompile"
+    },
+    {
+        "label": "publish",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "publish",
+            "${workspaceFolder}/captive-portal/src/captive-portal-api/captive-portal-api.csproj",
+            "/property:GenerateFullPaths=true",
+            "/consoleloggerparameters:NoSummary"
+        ],
+        "problemMatcher": "$msCompile"
+    },
+    {
+        "label": "watch",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "watch",
+            "run",
+            "--project",
+            "${workspaceFolder}/captive-portal/src/captive-portal-api/captive-portal-api.csproj"
+        ],
+        "problemMatcher": "$msCompile"
     }
   ]
 }
