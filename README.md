@@ -20,8 +20,6 @@ This repository contains the following add-ons
 
 _Captive Portal add-on to use against UniFi Network Guest Access._
 
-<!--
-
 Notes to developers after forking or using the github template feature:
 - While developing comment out the 'image' key from 'example/config.yaml' to make the supervisor build the addon
   - Remember to put this back when pushing up your changes.
@@ -36,7 +34,7 @@ Notes to developers after forking or using the github template feature:
 - Adjust all keys/url's that points to 'home-assistant' to now point to your user/fork.
 - Share your repository on the forums https://community.home-assistant.io/c/projects/9
 - Do awesome stuff!
- -->
+ 
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
